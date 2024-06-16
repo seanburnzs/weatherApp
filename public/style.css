@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: #f0f0f0;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.search-box {
+    margin-bottom: 20px;
+}
+
+#city {
+    padding: 10px;
+    font-size: 16px;
+}
+
+#search-btn {
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.weather-info {
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+#city-name {
+    font-size: 24px;
+    margin: 10px 0;
+}
+
+#temperature, #description {
+    font-size: 18px;
+}
