@@ -34,7 +34,7 @@ A simple weather application that fetches real-time weather data using the OpenW
 3. Create a `.env` file in the root directory and add your OpenWeatherMap API key:
 
     ```plaintext
-    API_KEY=api_key_here
+    API_KEY=api_key
     ```
 
 4. Run the application:
