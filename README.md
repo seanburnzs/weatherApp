@@ -21,7 +21,7 @@ A simple weather application that fetches real-time weather data using the OpenW
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/weatherApp.git
+    git clone https://github.com/seanburnzs/weatherApp.git
     cd weatherApp
     ```
 
